@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs grep:*)",
+      "Bash(cd:*)",
+      "Bash(npm run:*)",
+      "Bash(sed -n '169,200p' src/router/index.tsx)",
+      "Bash(sed -n '225,240p' src/router/index.tsx)",
+      "Bash(head -15 grep -n \"return\\\\|className\" src/pages/EffectEvaluation/EvaluationDimensions/index.tsx)",
+      "Bash(tail -3 grep -n \"^    </div>\" src/pages/EffectEvaluation/EvaluationDimensions/index.tsx)",
+      "WebSearch"
+    ]
+  }
+}
